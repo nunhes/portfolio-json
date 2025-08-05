@@ -1,4 +1,11 @@
+---
+interface Props {
+	title: string,
+	subtitle: string
+}
 
+const {title, subtitle} = Astro.props
+---
 
 
 <!doctype html>
@@ -23,7 +30,7 @@
 	body, figure {
 		margin: 0;
 		padding: 0;
-		color: #777;
+		color: #666;
 	}
 	a {
 		text-decoration: none;

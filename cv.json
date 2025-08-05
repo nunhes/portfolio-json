@@ -1,0 +1,215 @@
+{
+    "basics": {
+        "name": "Nunhes Berndz",
+        "label": "Web Designer+Creative",
+        "image": "https://avatars.githubusercontent.com/u/60558",
+        "email": "nunhes@gmail.com",
+        "phone": "+34 639381005",
+        "url": "https://bitsolto.com",
+        "summary": "Levo máis de 20 anos traballando no sector do deseño aplicado á imaxe de empresa e a comunicación gráfica. Un día preparo a interface de produto para unha nova tenda on-line, o seguinte deseño unha nova páxina de inicio para unha campaña e-marketing; e, o próximo deseño uns folletos promocionais...e sinon adicome ao estudo do medio e aos incesantes novos recursos.",
+        "location": {
+            "address": "",
+            "postalCode": "36947",
+            "city": "Cangas",
+            "countryCode": "ES",
+            "region": "Galicia"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "nunhes",
+                "url": "https://x.com/nunhes"
+            },
+            {
+                "network": "Linkedin",
+                "username": "ismaelbernardez",
+                "url": "https://linkedin.com/john"
+            },
+            {
+                "network": "Instagram",
+                "username": "john",
+                "url": "https://instagram.com/john"
+            },
+            {
+                "network": "Github",
+                "username": "john",
+                "url": "https://github.com/john"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "El Corte Ingles",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
+            "name": "Pescanova",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
+            "name": "Pereira SL",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "url": "https://institution.com/",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "University",
+            "url": "https://institution.com/",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Tecnico de redes",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        },
+        {
+            "name": "Formacion para el empleo",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Programmer",
+            "level": "Master",
+            "keywords": [
+                "PHP",
+                "SQL",
+                "UML"
+            ]
+        },
+        {
+            "name": "Drawing",
+            "level": "Master",
+            "keywords": [
+                "Charcoal"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Technical speaker"
+        },
+        {
+            "language": "Galician",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        }
+
+    ],
+    "interests": [
+        {
+            "name": "Base Jummping",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Nadie",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Description...",
+            "highlights": [
+                "Won award at AIHacks 2016",
+                "Outro highlight"
+            ],
+            "url": "https://project.com/"
+        }
+    ]
+}
