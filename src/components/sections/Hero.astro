@@ -18,6 +18,11 @@ const {city, region} = location
 const SOCIAL_ICONS: Record<string, any> = {
     Github, Instagram, Linkedin, Twitter
 }
+
+const linkedInfo = profiles.find(({ network }) => network === "Linkedin")
+const linkedUrl = linkedInfo?.url
+
+const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" | ")
 ---
 <Section>
 <div class="container">
@@ -28,6 +33,9 @@ const SOCIAL_ICONS: Record<string, any> = {
         <Globe /> {city}, {region}
     </span>
     <footer>
+        <div class="print">
+            {email} | {phone} | {linkedUrl}
+        </div>
         {
             email && (
                 <a 
@@ -110,6 +118,7 @@ span {
 }
 
 footer {
+    font-size: 0.65rem;
     display: flex;
     gap: 4px;
     margin-top: 8px;
@@ -131,5 +140,19 @@ footer a {
 footer a:hover {
     background: #eee;
     border: 1px solid #ddd;
+}
+
+.print {
+    display: none;
+}
+
+@media print {
+    .print {
+    display: block;
+}
+
+footer a {
+    display: none;
+}
 }
 </style>

@@ -44,7 +44,7 @@
             "url": "https://company.com",
             "startDate": "2013-01-01",
             "endDate": "2014-01-01",
-            "summary": "Description…",
+            "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex doloremque vitae magnam qui officia. Dicta at sed vel quibusdam ducimus cumque, possimus itaque ab illum",
             "highlights": [
                 "Started the company"
             ]
@@ -55,7 +55,7 @@
             "url": "https://company.com",
             "startDate": "2013-01-01",
             "endDate": "2014-01-01",
-            "summary": "Description…",
+            "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex doloremque vitae magnam qui officia. Dicta at sed vel quibusdam ducimus cumque, possimus itaque ab illum",
             "highlights": [
                 "Started the company"
             ]
@@ -65,8 +65,8 @@
             "position": "President",
             "url": "https://company.com",
             "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description…",
+            "endDate": null,
+            "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.   Ex doloremque vitae magnam qui officia. Dicta at sed vel quibusdam ducimus cumque, possimus itaque ab illum",
             "highlights": [
                 "Started the company"
             ]
@@ -204,12 +204,77 @@
             "name": "Project",
             "startDate": "2019-01-01",
             "endDate": "2021-01-01",
-            "description": "Description...",
+            "isActive": true,
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex doloremque vitae magnam qui officia.",
+            "highlights": [
+                "Won award at AIHacks 2016",
+                "Outro highlight"
+            ],
+            "url": "https://project.com/"
+        },
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "isActive": false,
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+            "highlights": [
+                "Won award at AIHacks 2016",
+                "Outro highlight",
+                "Mais highlight",
+                "Highlight"
+            ],
+            "url": "https://project.com/"
+        },
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "isActive": false,
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex doloremque vitae magnam qui officia.",
+            "highlights": [
+                "Won award at AIHacks 2016",
+                "Outro highlight"
+            ],
+            "url": "https://project.com/"
+        },
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "isActive": true,
+            "description": "Lorem ipsum, dolor sit amet consectetur. Qui officia.",
+            "highlights": [
+                "Won award at AIHacks 2016",
+                "Outro highlight"
+            ],
+            "url": "https://project.com/"
+        },
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "isActive": true,
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+            "highlights": [
+                "Won award at AIHacks 2016",
+                "Outro highlight",
+                "Uso highlight"
+            ],
+            "url": "https://project.com/"
+        },
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "isActive": true,
+            "description": "Lorem ipsum, dolor sit amet. Ex doloremque vitae magnam qui officia.",
             "highlights": [
                 "Won award at AIHacks 2016",
                 "Outro highlight"
             ],
             "url": "https://project.com/"
         }
+        
     ]
 }
