@@ -7,7 +7,7 @@ import Github from '@/components/icons/github.svg'
 import Globe from '@/components/icons/globe.svg'
 import Instagram from '@/components/icons/instagram.svg'
 import Linkedin from '@/components/icons/linkedin.svg'
-import Twitter from '@/components/icons/twitter-x.svg'
+import X from '@/components/icons/twitter-x.svg'
 
 
 
@@ -16,7 +16,7 @@ const { name, label, image, email, phone, location, profiles } = basics
 const {city, region} = location
 
 const SOCIAL_ICONS: Record<string, any> = {
-    Github, Instagram, Linkedin, Twitter
+    Github, Instagram, Linkedin, X
 }
 
 const linkedInfo = profiles.find(({ network }) => network === "Linkedin")

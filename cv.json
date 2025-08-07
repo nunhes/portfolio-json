@@ -16,24 +16,24 @@
         },
         "profiles": [
             {
-                "network": "Twitter",
+                "network": "X",
                 "username": "nunhes",
                 "url": "https://x.com/nunhes"
             },
             {
                 "network": "Linkedin",
-                "username": "ismaelbernardez",
-                "url": "https://linkedin.com/john"
+                "username": "ismael-bernardez",
+                "url": "https://es.linkedin.com/in/ismael-bernardez"
             },
             {
                 "network": "Instagram",
-                "username": "john",
-                "url": "https://instagram.com/john"
+                "username": "nunhex",
+                "url": "https://www.instagram.com/nunhex/"
             },
             {
                 "network": "Github",
-                "username": "john",
-                "url": "https://github.com/john"
+                "username": "nunhes",
+                "url": "https://github.com/nunhes"
             }
         ]
     },
