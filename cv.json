@@ -1,7 +1,7 @@
 {
     "basics": {
-        "name": "Nunhes Berndz",
-        "label": "Web Designer+Creative",
+        "name": "Ismael Bernárdez",
+        "label": "Web Developer + Creative Designer",
         "image": "https://avatars.githubusercontent.com/u/60558",
         "email": "nunhes@gmail.com",
         "phone": "+34 639381005",
@@ -39,75 +39,75 @@
     },
     "work": [
         {
-            "name": "El Corte Ingles",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
+            "name": "Pixel Graphics",
+            "position": "Deseñador",
+            "url": "https://pixelgraphics.es",
+            "startDate": "1994-06-01",
+            "endDate": "1997-08-01",
             "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex doloremque vitae magnam qui officia. Dicta at sed vel quibusdam ducimus cumque, possimus itaque ab illum",
             "highlights": [
-                "Started the company"
+                "Deseño web", "Nortempo", "Caramelo Moda"
             ]
         },
         {
-            "name": "Pescanova",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
+            "name": "Peter Taboada SL",
+            "position": "Técnico de marketing",
+            "url": "https://petertaboada.com",
+            "startDate": "2001-01-01",
+            "endDate": "2002-01-01",
             "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex doloremque vitae magnam qui officia. Dicta at sed vel quibusdam ducimus cumque, possimus itaque ab illum",
             "highlights": [
-                "Started the company"
+                "ID corporativa", "Ferias", "Webmaster"
             ]
         },
         {
-            "name": "Pereira SL",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": null,
+            "name": "Econet Consultants",
+            "position": "Lead Designer + Programmer",
+            "url": "https://econet.com",
+            "startDate": "2008-01-01",
+            "endDate": "2010-01-01",
             "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.   Ex doloremque vitae magnam qui officia. Dicta at sed vel quibusdam ducimus cumque, possimus itaque ab illum",
             "highlights": [
-                "Started the company"
+                "SEO", "Marketing", "Programmer"
             ]
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
+            "organization": "Concello de Vigo",
             "position": "Volunteer",
-            "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
+            "url": "https://vigo,org/",
+            "startDate": "1992-12-01",
+            "endDate": "1992-12-31",
+            "summary": "Taller de lecer",
             "highlights": [
-                "Awarded 'Volunteer of the Month'"
+                "Drawing"
             ]
         }
     ],
     "education": [
         {
-            "institution": "University",
-            "url": "https://institution.com/",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "institution": "Euskal Herriko Universitatea",
+            "url": "https://ehu.org/",
+            "area": "Belas Artes",
+            "studyType": "Estudos",
+            "startDate": "1982-01-01",
+            "endDate": "1987-01-01",
             "score": "4.0",
             "courses": [
-                "DB1101 - Basic SQL"
+                "Belas Artes"
             ]
         },
         {
-            "institution": "University",
-            "url": "https://institution.com/",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "score": "4.0",
+            "institution": "Universidade de Vigo",
+            "url": "https://uvigo.org/",
+            "area": "Belas Artes",
+            "studyType": "Licenciatura + Post Grao",
+            "startDate": "1994-01-01",
+            "endDate": "1997-01-01",
+            "score": "10.0",
             "courses": [
-                "DB1101 - Basic SQL"
+                "Licenciatura BBAA", "Cursos PreDoctorais"
             ]
         }
     ],
@@ -122,22 +122,22 @@
     "certificates": [
         {
             "name": "Tecnico de redes",
-            "date": "2021-11-07",
-            "issuer": "Company",
+            "date": "2009-11-07",
+            "issuer": "MicrosVigo",
             "url": "https://certificate.com"
         },
         {
             "name": "Formacion para el empleo",
-            "date": "2021-11-07",
-            "issuer": "Company",
+            "date": "2019-11-07",
+            "issuer": "CIP",
             "url": "https://certificate.com"
         }
     ],
     "publications": [
         {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
+            "name": "Bitsolto",
+            "publisher": "Blogger",
+            "releaseDate": "2007-10-01",
             "url": "https://publication.com",
             "summary": "Description…"
         }
@@ -188,8 +188,8 @@
         {
             "name": "Base Jummping",
             "keywords": [
-                "Ferrets",
-                "Unicorns"
+                "Flight",
+                "DLB"
             ]
         }
     ],
@@ -220,7 +220,6 @@
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
             "highlights": [
                 "Won award at AIHacks 2016",
-                "Outro highlight",
                 "Mais highlight",
                 "Highlight"
             ],
